@@ -17,7 +17,7 @@ This work package aligns dissemination with open‑source practices (licenses, r
 
 ## WP6 outputs
 
-- Communication kit: Messaging, key visuals, press boilerplate, slide deck, and media assets → [Communication kit](./docs/communication-kit.md)
+- Communication kit: Messaging, key visuals, press boilerplate, slide deck, and media assets → [Communication kit](https://github.com/OCDCpro/WP6/tree/main/Kommunikationspaket)
 - Web & channels: Information architecture, content plan, update cadence, and governance for web and socials 
 - Community playbook: Contribution guidelines, code of conduct, moderation & mentoring, events calendar 
 - Sustainability framework: Partner tiers, advisory board rhythm, funding and sponsorship options, KPI set
@@ -53,7 +53,7 @@ Die Dissemination ist mit Open‑Source‑Praxis verzahnt (Lizenzen, Repos, Repr
 
 ## WP6‑Outputs
 
-- Kommunikationspaket: Kernbotschaften, Key Visuals, Presse‑Bausteine, Foliensatz und Media‑Assets → [Kommunikationspaket](./docs/kommunikationspaket.md)
+- Kommunikationspaket: Kernbotschaften, Key Visuals, Presse‑Bausteine, Foliensatz und Media‑Assets → [Kommunikationspaket](https://github.com/OCDCpro/WP6/tree/main/Kommunikationspaket)
 - Web & Kanäle: Informationsarchitektur, Content‑Plan, Update‑Kadenz und Governance für Web und Socials
 - Community‑Playbook: Contribution‑Guidelines, Code of Conduct, Moderation & Mentoring, Eventkalender 
 - Verstetigungsrahmen: Partner‑Tiers, Taktung des Industriebeirats, Funding‑ & Sponsoring‑Optionen, KPI‑Set
